@@ -49,15 +49,15 @@ Here I showcase my journey in SQL, Excel, and Data Cleaning projects where I tra
 
 ### 📊 Excel Integration
 
-Exported SQL tables into Excel sheet
+- Exported SQL tables into Excel sheet
 
 ---
 ### 🛠️ Tools & Skills
 
-SQL → Data Cleaning, UPDATE, JOINs, CTE, Aggregations,COALESCE, TRIM , CONVERT , FORMAT
+- SQL → Data Cleaning, UPDATE, JOINs, CTE, Aggregations,COALESCE, TRIM , CONVERT , FORMAT
 ROW_NUMBER() , PARTITION BY
 
-EXCEL → putting clean data
+- EXCEL → putting clean data
 
 ---
 ### 📬 Contact & Social Links
@@ -65,5 +65,5 @@ EXCEL → putting clean data
 ✨ Feel free to connect with me and check out more projects:
 
 
-### 🔗 [LinkedIn](www.linkedin.com/in/alaa-ramadan-)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/alaa-ramadan-)
 
